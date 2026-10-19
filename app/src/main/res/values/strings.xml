@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickFood</string>
+    <string name="branch_info">فرع مدينة نصر · مفتوح لحد ٢ بالليل</string>
+    <string name="currency">ج.م</string>
+</resources>

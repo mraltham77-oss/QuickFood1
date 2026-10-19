@@ -1,0 +1,6 @@
+{
+  "name": "QuickFood",
+  "description": "تطبيق QuickFood لطلب الطعام أونلاين: برجر سماش، بيتزا فرن حطب، مشويات على الفحم مع السلة، حساب الضريبة والتوصيل، ومتابعة الطلب لحظة بلحظة مرتبط بسيرفر الموقع مباشرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
